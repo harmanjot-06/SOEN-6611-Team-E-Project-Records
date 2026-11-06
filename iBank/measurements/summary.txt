@@ -1,0 +1,13 @@
+Files: 64
+        total: 3107
+        blank: 488
+ comment_only: 270
+     physical: 2349
+      logical: 1763
+           R1: 1287
+           R2: 122
+           R3: 353
+           R4: 1
+      methods: 287
+Methods: 287  readable (>=0.5): 187 (65.2%)
+Mean readability: 0.622  median: 0.880
